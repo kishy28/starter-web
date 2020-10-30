@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 this simple code can be deployed in a web server as well 
+
+##COPYRIGHT
+GIT training 2014
